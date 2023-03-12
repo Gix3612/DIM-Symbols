@@ -1,0 +1,1041 @@
+@font-face {
+  font-family: 'DIM-Symbols';
+  src:  url('fonts/DIM-Symbols.eot?3fbm31');
+  src:  url('fonts/DIM-Symbols.eot?3fbm31#iefix') format('embedded-opentype'),
+    url('fonts/DIM-Symbols.ttf?3fbm31') format('truetype'),
+    url('fonts/DIM-Symbols.woff?3fbm31') format('woff'),
+    url('fonts/DIM-Symbols.svg?3fbm31#DIM-Symbols') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'DIM-Symbols' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-daybreak:before {
+  content: "\f0000";
+}
+.icon-golden_gun_marksman:before {
+  content: "\f0001";
+}
+.icon-nova_bomb_cataclysm:before {
+  content: "\f0002";
+}
+.icon-nova_bomb_vortex:before {
+  content: "\f0003";
+}
+.icon-shadowshot_moebius_quiver:before {
+  content: "\f0004";
+}
+.icon-ward_of_dawn:before {
+  content: "\f0005";
+}
+.icon-amplified:before {
+  content: "\f0006";
+}
+.icon-arc_soul:before {
+  content: "\f0007";
+}
+.icon-ball_lightning:before {
+  content: "\f0008";
+}
+.icon-ballistic_slam:before {
+  content: "\f0009";
+}
+.icon-barricade_rally:before {
+  content: "\f000a";
+}
+.icon-barricade_towering:before {
+  content: "\f000b";
+}
+.icon-bastion:before {
+  content: "\f000c";
+}
+.icon-blind:before {
+  content: "\f000d";
+}
+.icon-blink:before {
+  content: "\f000e";
+}
+.icon-celestial_fire:before {
+  content: "\f000f";
+}
+.icon-chain_lightning:before {
+  content: "\f0010";
+}
+.icon-chaos_accelerant:before {
+  content: "\f0011";
+}
+.icon-combination_blow:before {
+  content: "\f0012";
+}
+.icon-cryoclasm:before {
+  content: "\f0013";
+}
+.icon-cure:before {
+  content: "\f0014";
+}
+.icon-devour:before {
+  content: "\f0015";
+}
+.icon-diamond_lance:before {
+  content: "\f0016";
+}
+.icon-diamond_lance2:before {
+  content: "\f0017";
+}
+.icon-disorienting_blow:before {
+  content: "\f0018";
+}
+.icon-dodge_acrobats:before {
+  content: "\f0019";
+}
+.icon-dodge_gamblers:before {
+  content: "\f001a";
+}
+.icon-dodge_marksmans:before {
+  content: "\f001b";
+}
+.icon-electrostatic_mind:before {
+  content: "\f001c";
+}
+.icon-feed_the_void:before {
+  content: "\f001d";
+}
+.icon-flow_state:before {
+  content: "\f001e";
+}
+.icon-frostpulse:before {
+  content: "\f001f";
+}
+.icon-glacial_harvest:before {
+  content: "\f0020";
+}
+.icon-glide_balanced:before {
+  content: "\f0021";
+}
+.icon-glide_burst:before {
+  content: "\f0022";
+}
+.icon-glide_strafe:before {
+  content: "\f0023";
+}
+.icon-grenade_arcbolt:before {
+  content: "\f0024";
+}
+.icon-grenade_axion_bolt:before {
+  content: "\f0025";
+}
+.icon-grenade_firebolt:before {
+  content: "\f0026";
+}
+.icon-grenade_flashbang:before {
+  content: "\f0027";
+}
+.icon-grenade_flux:before {
+  content: "\f0028";
+}
+.icon-grenade_fusion:before {
+  content: "\f0029";
+}
+.icon-grenade_healing:before {
+  content: "\f002a";
+}
+.icon-grenade_incendiary:before {
+  content: "\f002b";
+}
+.icon-grenade_lightning:before {
+  content: "\f002c";
+}
+.icon-grenade_magnetic:before {
+  content: "\f002d";
+}
+.icon-grenade_pulse:before {
+  content: "\f002e";
+}
+.icon-grenade_scatter:before {
+  content: "\f002f";
+}
+.icon-grenade_skip:before {
+  content: "\f0030";
+}
+.icon-grenade_solar:before {
+  content: "\f0031";
+}
+.icon-grenade_storm:before {
+  content: "\f0032";
+}
+.icon-grenade_suppressor:before {
+  content: "\f0033";
+}
+.icon-grenade_swarm:before {
+  content: "\f0034";
+}
+.icon-grenade_thermite:before {
+  content: "\f0035";
+}
+.icon-grenade_tripmine:before {
+  content: "\f0036";
+}
+.icon-grenade_void_spike:before {
+  content: "\f0037";
+}
+.icon-grenade_void_wall:before {
+  content: "\f0038";
+}
+.icon-grenade_vortex:before {
+  content: "\f0039";
+}
+.icon-grim_harvest:before {
+  content: "\f003a";
+}
+.icon-gunpowder_gamble:before {
+  content: "\f003b";
+}
+.icon-hammer_strike:before {
+  content: "\f003c";
+}
+.icon-heat_rises:before {
+  content: "\f003d";
+}
+.icon-howl_of_the_storm:before {
+  content: "\f003e";
+}
+.icon-icarus_dash:before {
+  content: "\f003f";
+}
+.icon-iceflare_bolts:before {
+  content: "\f0040";
+}
+.icon-ignition:before {
+  content: "\f0041";
+}
+.icon-invisibility:before {
+  content: "\f0042";
+}
+.icon-ionic_trace:before {
+  content: "\f0043";
+}
+.icon-juggernaut:before {
+  content: "\f0044";
+}
+.icon-jump_high:before {
+  content: "\f0045";
+}
+.icon-jump_strafe:before {
+  content: "\f0046";
+}
+.icon-jump_triple:before {
+  content: "\f0047";
+}
+.icon-knife_lightweight:before {
+  content: "\f0048";
+}
+.icon-knife_proximity_explosive:before {
+  content: "\f0049";
+}
+.icon-knife_trick:before {
+  content: "\f004a";
+}
+.icon-knife_weighted_throwing:before {
+  content: "\f004b";
+}
+.icon-knock_em_down:before {
+  content: "\f004c";
+}
+.icon-knockout:before {
+  content: "\f004d";
+}
+.icon-lethal_current:before {
+  content: "\f004e";
+}
+.icon-lift_catapult:before {
+  content: "\f004f";
+}
+.icon-lift_high:before {
+  content: "\f0050";
+}
+.icon-lift_strafe:before {
+  content: "\f0051";
+}
+.icon-offensive_bulwark:before {
+  content: "\f0052";
+}
+.icon-on_your_mark:before {
+  content: "\f0053";
+}
+.icon-overshield:before {
+  content: "\f0054";
+}
+.icon-phoenix_dive:before {
+  content: "\f0055";
+}
+.icon-radiant:before {
+  content: "\f0056";
+}
+.icon-restoration:before {
+  content: "\f0057";
+}
+.icon-rift_empowering:before {
+  content: "\f0058";
+}
+.icon-rift_healing:before {
+  content: "\f0059";
+}
+.icon-roaring_flames:before {
+  content: "\f005a";
+}
+.icon-scorch:before {
+  content: "\f005b";
+}
+.icon-seismic_strike:before {
+  content: "\f005c";
+}
+.icon-shatter:before {
+  content: "\f005d";
+}
+.icon-shatterdive:before {
+  content: "\f005e";
+}
+.icon-shield_bash:before {
+  content: "\f005f";
+}
+.icon-slow:before {
+  content: "\f0060";
+}
+.icon-snare_bomb:before {
+  content: "\f0061";
+}
+.icon-sol_invictus:before {
+  content: "\f0062";
+}
+.icon-stasis_crystal:before {
+  content: "\f0063";
+}
+.icon-stasis_shard:before {
+  content: "\f0064";
+}
+.icon-stasis_titan_spear_slam:before {
+  content: "\f0065";
+}
+.icon-stylish_executioner:before {
+  content: "\f0066";
+}
+.icon-suppression:before {
+  content: "\f0067";
+}
+.icon-tectonic_harvest:before {
+  content: "\f0068";
+}
+.icon-tempest_strike:before {
+  content: "\f0069";
+}
+.icon-thruster:before {
+  content: "\f006a";
+}
+.icon-touch_of_flame:before {
+  content: "\f006b";
+}
+.icon-touch_of_thunder:before {
+  content: "\f006c";
+}
+.icon-touch_of_winter:before {
+  content: "\f006d";
+}
+.icon-trappers_ambush:before {
+  content: "\f006e";
+}
+.icon-vanishing_step:before {
+  content: "\f006f";
+}
+.icon-weaken:before {
+  content: "\f0070";
+}
+.icon-winters_shroud:before {
+  content: "\f0071";
+}
+.icon-adventure2:before {
+  content: "\f0072";
+}
+.icon-altars_of_sorrow:before {
+  content: "\f0073";
+}
+.icon-black_armory_forge:before {
+  content: "\f0074";
+}
+.icon-curse_cycle:before {
+  content: "\f0075";
+}
+.icon-duality:before {
+  content: "\f0076";
+}
+.icon-dungeon:before {
+  content: "\f0077";
+}
+.icon-edz:before {
+  content: "\f0078";
+}
+.icon-escalation_protocol:before {
+  content: "\f0079";
+}
+.icon-faction_crucible:before {
+  content: "\f007a";
+}
+.icon-faction_ironbanner:before {
+  content: "\f007b";
+}
+.icon-faction_xur4:before {
+  content: "\f007c";
+}
+.icon-festival_of_the_lost:before {
+  content: "\f007d";
+}
+.icon-gambit:before {
+  content: "\f007e";
+}
+.icon-garden_of_salvation:before {
+  content: "\f007f";
+}
+.icon-guardian_games:before {
+  content: "\f0080";
+}
+.icon-raid:before {
+  content: "\f0081";
+}
+.icon-spire_of_the_watcher:before {
+  content: "\f0082";
+}
+.icon-strike:before {
+  content: "\f0083";
+}
+.icon-the_dawning:before {
+  content: "\f0084";
+}
+.icon-trials_of_osiris:before {
+  content: "\f0085";
+}
+.icon-wartable:before {
+  content: "\f0086";
+}
+.icon-battlegrounds:before {
+  content: "\f0087";
+}
+.icon-bray_simulation:before {
+  content: "\f0088";
+}
+.icon-dreaming_city:before {
+  content: "\f0089";
+}
+.icon-luna:before {
+  content: "\f008a";
+}
+.icon-nessus:before {
+  content: "\f008b";
+}
+.icon-raid_deep_stone_crypt:before {
+  content: "\f008c";
+}
+.icon-raid_last_wish:before {
+  content: "\f008d";
+}
+.icon-raid_leviathan:before {
+  content: "\f008e";
+}
+.icon-raid_vault_of_glass:before {
+  content: "\f008f";
+}
+.icon-raid_vow_of_the_disciple:before {
+  content: "\f0090";
+}
+.icon-solstice:before {
+  content: "\f0091";
+}
+.icon-wellspring:before {
+  content: "\f0092";
+}
+.icon-ace_of_spades:before {
+  content: "\f0093";
+}
+.icon-arrivals:before {
+  content: "\f0094";
+}
+.icon-beyond_light:before {
+  content: "\f0095";
+}
+.icon-black_armory:before {
+  content: "\f0096";
+}
+.icon-bray_simulation1:before {
+  content: "\f0097";
+}
+.icon-cabal_red_legion:before {
+  content: "\f0098";
+}
+.icon-cabal_unknown1:before {
+  content: "\f0099";
+}
+.icon-chalice_of_opulence:before {
+  content: "\f009a";
+}
+.icon-clovis_bray:before {
+  content: "\f009b";
+}
+.icon-clovis_bray_device:before {
+  content: "\f009c";
+}
+.icon-crow:before {
+  content: "\f009d";
+}
+.icon-dawn:before {
+  content: "\f009e";
+}
+.icon-destiny:before {
+  content: "\f009f";
+}
+.icon-dim:before {
+  content: "\f00a0";
+}
+.icon-eververse:before {
+  content: "\f00a1";
+}
+.icon-faction_cryptarch:before {
+  content: "\f00a2";
+}
+.icon-faction_dead_orbit:before {
+  content: "\f00a3";
+}
+.icon-faction_fwc3:before {
+  content: "\f00a4";
+}
+.icon-faction_new_monarchy:before {
+  content: "\f00a5";
+}
+.icon-faction_queens_wrath:before {
+  content: "\f00a6";
+}
+.icon-faction_rally:before {
+  content: "\f00a7";
+}
+.icon-faction_thenine:before {
+  content: "\f00a8";
+}
+.icon-faction_vanguard:before {
+  content: "\f00a9";
+}
+.icon-fallen_devils:before {
+  content: "\f00aa";
+}
+.icon-fallen_dusk:before {
+  content: "\f00ab";
+}
+.icon-fallen_judgement:before {
+  content: "\f00ac";
+}
+.icon-fallen_kings:before {
+  content: "\f00ad";
+}
+.icon-fallen_light:before {
+  content: "\f00ae";
+}
+.icon-fallen_spider:before {
+  content: "\f00af";
+}
+.icon-fallen_unknown1:before {
+  content: "\f00b0";
+}
+.icon-fallen_winter:before {
+  content: "\f00b1";
+}
+.icon-fallen_wolves:before {
+  content: "\f00b2";
+}
+.icon-forsaken:before {
+  content: "\f00b3";
+}
+.icon-gunsmith:before {
+  content: "\f00b4";
+}
+.icon-hive:before {
+  content: "\f00b5";
+}
+.icon-hive_crota:before {
+  content: "\f00b6";
+}
+.icon-ishtar:before {
+  content: "\f00b7";
+}
+.icon-lightfall:before {
+  content: "\f00b8";
+}
+.icon-loom:before {
+  content: "\f00b9";
+}
+.icon-plundered:before {
+  content: "\f00ba";
+}
+.icon-risen:before {
+  content: "\f00bb";
+}
+.icon-seasonal_arena:before {
+  content: "\f00bc";
+}
+.icon-seraph:before {
+  content: "\f00bd";
+}
+.icon-seventh_column:before {
+  content: "\f00be";
+}
+.icon-severed:before {
+  content: "\f00bf";
+}
+.icon-shadowkeep:before {
+  content: "\f00c0";
+}
+.icon-srl:before {
+  content: "\f00c1";
+}
+.icon-taken:before {
+  content: "\f00c2";
+}
+.icon-the_chosen:before {
+  content: "\f00c3";
+}
+.icon-the_hunt:before {
+  content: "\f00c4";
+}
+.icon-the_worthy:before {
+  content: "\f00c5";
+}
+.icon-traveler2:before {
+  content: "\f00c6";
+}
+.icon-vex:before {
+  content: "\f00c7";
+}
+.icon-warmind:before {
+  content: "\f00c8";
+}
+.icon-witch_queen:before {
+  content: "\f00c9";
+}
+.icon-fynch:before {
+  content: "\f00ca";
+}
+.icon-gaul:before {
+  content: "\f00cb";
+}
+.icon-starhorse:before {
+  content: "\f00cc";
+}
+.icon-suraya:before {
+  content: "\f00cd";
+}
+.icon-ahamkara_bones:before {
+  content: "\f00ce";
+}
+.icon-cat_statue:before {
+  content: "\f00cf";
+}
+.icon-eliksni_skull:before {
+  content: "\f00d0";
+}
+.icon-executioner:before {
+  content: "\f00d1";
+}
+.icon-exo_frame:before {
+  content: "\f00d2";
+}
+.icon-gambit_mote:before {
+  content: "\f00d3";
+}
+.icon-jade_rabbit:before {
+  content: "\f00d4";
+}
+.icon-lectern:before {
+  content: "\f00d5";
+}
+.icon-legendary:before {
+  content: "\f00d6";
+}
+.icon-loot_chest:before {
+  content: "\f00d7";
+}
+.icon-match_game:before {
+  content: "\f00d8";
+}
+.icon-region_chest:before {
+  content: "\f00d9";
+}
+.icon-relic:before {
+  content: "\f00da";
+}
+.icon-seasonal:before {
+  content: "\f00db";
+}
+.icon-skull:before {
+  content: "\f00dc";
+}
+.icon-sleeper_node:before {
+  content: "\f00dd";
+}
+.icon-standing_victory_gambit2:before {
+  content: "\f00de";
+}
+.icon-team_alpha:before {
+  content: "\f00df";
+}
+.icon-team_alpha2:before {
+  content: "\f00e0";
+}
+.icon-team_bravo:before {
+  content: "\f00e1";
+}
+.icon-vault:before {
+  content: "\f00e2";
+}
+.icon-vendor:before {
+  content: "\f00e3";
+}
+.icon-ravenous_beast:before {
+  content: "\f00e4";
+}
+.icon-respawn_restricted:before {
+  content: "\f00e5";
+}
+.icon-team_bravo2:before {
+  content: "\f00e6";
+}
+.icon-twin_tailed_fox:before {
+  content: "\f00e7";
+}
+.icon-vorpal:before {
+  content: "\f00e8";
+}
+.icon-worm:before {
+  content: "\f00e9";
+}
+.icon-leviathan_axes:before {
+  content: "\f00ea";
+}
+.icon-leviathan_cup:before {
+  content: "\f00eb";
+}
+.icon-leviathan_dogs:before {
+  content: "\f00ec";
+}
+.icon-leviathan_sun:before {
+  content: "\f00ed";
+}
+.icon-operator:before {
+  content: "\f00ee";
+}
+.icon-scanner:before {
+  content: "\f00ef";
+}
+.icon-suppressor:before {
+  content: "\f00f0";
+}
+.icon-bird_branch:before {
+  content: "\f00f1";
+}
+.icon-bird_down:before {
+  content: "\f00f2";
+}
+.icon-bird_fly:before {
+  content: "\f00f3";
+}
+.icon-bird_stand:before {
+  content: "\f00f4";
+}
+.icon-fire_left:before {
+  content: "\f00f5";
+}
+.icon-fire_right:before {
+  content: "\f00f6";
+}
+.icon-fish_curl:before {
+  content: "\f00f7";
+}
+.icon-fish_left:before {
+  content: "\f00f8";
+}
+.icon-fish_up:before {
+  content: "\f00f9";
+}
+.icon-infinity:before {
+  content: "\f00fa";
+}
+.icon-snake_eight:before {
+  content: "\f00fb";
+}
+.icon-snake_split:before {
+  content: "\f00fc";
+}
+.icon-snake_u:before {
+  content: "\f00fd";
+}
+.icon-spear_left:before {
+  content: "\f00fe";
+}
+.icon-spear_right:before {
+  content: "\f00ff";
+}
+.icon-two_fish:before {
+  content: "\f0100";
+}
+.icon-abilities:before {
+  content: "\f0101";
+}
+.icon-ammo_heavy2:before {
+  content: "\f0102";
+}
+.icon-ammo_primary2:before {
+  content: "\f0103";
+}
+.icon-ammo_special2:before {
+  content: "\f0104";
+}
+.icon-armor_boots:before {
+  content: "\f0105";
+}
+.icon-armor_chest:before {
+  content: "\f0106";
+}
+.icon-armor_class:before {
+  content: "\f0107";
+}
+.icon-armor_gloves:before {
+  content: "\f0108";
+}
+.icon-armor_helmet:before {
+  content: "\f0109";
+}
+.icon-aspect:before {
+  content: "\f010a";
+}
+.icon-clan:before {
+  content: "\f010b";
+}
+.icon-class_abilities:before {
+  content: "\f010c";
+}
+.icon-class_hunter:before {
+  content: "\f010d";
+}
+.icon-class_titan:before {
+  content: "\f010e";
+}
+.icon-class_warlock:before {
+  content: "\f010f";
+}
+.icon-consumable:before {
+  content: "\f0110";
+}
+.icon-damage_kinetic:before {
+  content: "\f0111";
+}
+.icon-discipline:before {
+  content: "\f0112";
+}
+.icon-emblem:before {
+  content: "\f0113";
+}
+.icon-energy_weapon:before {
+  content: "\f0114";
+}
+.icon-engram:before {
+  content: "\f0115";
+}
+.icon-finisher:before {
+  content: "\f0116";
+}
+.icon-ghost:before {
+  content: "\f0117";
+}
+.icon-glimmer:before {
+  content: "\f0118";
+}
+.icon-gunsmith_materials:before {
+  content: "\f0119";
+}
+.icon-infuse:before {
+  content: "\f011a";
+}
+.icon-intellect:before {
+  content: "\f011b";
+}
+.icon-light2:before {
+  content: "\f011c";
+}
+.icon-mobility:before {
+  content: "\f011d";
+}
+.icon-modification:before {
+  content: "\f011e";
+}
+.icon-ornament:before {
+  content: "\f011f";
+}
+.icon-past:before {
+  content: "\f0120";
+}
+.icon-postmaster:before {
+  content: "\f0121";
+}
+.icon-power2:before {
+  content: "\f0122";
+}
+.icon-power_weapon:before {
+  content: "\f0123";
+}
+.icon-recovery:before {
+  content: "\f0124";
+}
+.icon-resilience:before {
+  content: "\f0125";
+}
+.icon-resonance:before {
+  content: "\f0126";
+}
+.icon-roster:before {
+  content: "\f0127";
+}
+.icon-shader:before {
+  content: "\f0128";
+}
+.icon-shaders2:before {
+  content: "\f0129";
+}
+.icon-ship:before {
+  content: "\f012a";
+}
+.icon-sparrow2:before {
+  content: "\f012b";
+}
+.icon-strength:before {
+  content: "\f012c";
+}
+.icon-vault_armour:before {
+  content: "\f012d";
+}
+.icon-vault_weapons:before {
+  content: "\f012e";
+}
+.icon-accuracy:before {
+  content: "\f012f";
+}
+.icon-blast_radius:before {
+  content: "\f0130";
+}
+.icon-charge_time:before {
+  content: "\f0131";
+}
+.icon-draw_time:before {
+  content: "\f0132";
+}
+.icon-emote:before {
+  content: "\f0133";
+}
+.icon-handling:before {
+  content: "\f0134";
+}
+.icon-impact:before {
+  content: "\f0135";
+}
+.icon-loot:before {
+  content: "\f0136";
+}
+.icon-lore:before {
+  content: "\f0137";
+}
+.icon-masterwork:before {
+  content: "\f0138";
+}
+.icon-range:before {
+  content: "\f0139";
+}
+.icon-reload_speed:before {
+  content: "\f013a";
+}
+.icon-shield_duration:before {
+  content: "\f013b";
+}
+.icon-stability:before {
+  content: "\f013c";
+}
+.icon-transmat:before {
+  content: "\f013d";
+}
+.icon-velocity:before {
+  content: "\f013e";
+}
+.icon-hive_relic:before {
+  content: "\f013f";
+}
+.icon-trace_rifle:before {
+  content: "\f0140";
+}
+.icon-glaive_melee:before {
+  content: "\f0141";
+}
+.icon-sword_melee:before {
+  content: "\f0142";
+}
+.icon-the_rock:before {
+  content: "\f0143";
+}
+.icon-club:before {
+  content: "\f0144";
+}
+.icon-diamond:before {
+  content: "\f0145";
+}
+.icon-heart:before {
+  content: "\f0146";
+}
+.icon-spade:before {
+  content: "\f0147";
+}
+.icon-into_the_fray:before {
+  content: "\f0148";
+}
+.icon-mindspun_invocation:before {
+  content: "\f0149";
+}
+.icon-suspend:before {
+  content: "\f014a";
+}
+.icon-unravel:before {
+  content: "\f014b";
+}
+.icon-weavers_call:before {
+  content: "\f014c";
+}
+.icon-widows_silk:before {
+  content: "\f014d";
+}
+.icon-firesprite:before {
+  content: "\f014e";
+}
+.icon-void_breach:before {
+  content: "\f014f";
+}
+.icon-harmonic:before {
+  content: "\f0150";
+}
+.icon-fragments:before {
+  content: "\f0151";
+}

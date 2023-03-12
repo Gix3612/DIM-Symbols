@@ -1,0 +1,1015 @@
+.icon-daybreak {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0000;');
+}
+.icon-golden_gun_marksman {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0001;');
+}
+.icon-nova_bomb_cataclysm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0002;');
+}
+.icon-nova_bomb_vortex {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0003;');
+}
+.icon-shadowshot_moebius_quiver {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0004;');
+}
+.icon-ward_of_dawn {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0005;');
+}
+.icon-amplified {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0006;');
+}
+.icon-arc_soul {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0007;');
+}
+.icon-ball_lightning {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0008;');
+}
+.icon-ballistic_slam {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0009;');
+}
+.icon-barricade_rally {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf000a;');
+}
+.icon-barricade_towering {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf000b;');
+}
+.icon-bastion {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf000c;');
+}
+.icon-blind {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf000d;');
+}
+.icon-blink {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf000e;');
+}
+.icon-celestial_fire {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf000f;');
+}
+.icon-chain_lightning {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0010;');
+}
+.icon-chaos_accelerant {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0011;');
+}
+.icon-combination_blow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0012;');
+}
+.icon-cryoclasm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0013;');
+}
+.icon-cure {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0014;');
+}
+.icon-devour {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0015;');
+}
+.icon-diamond_lance {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0016;');
+}
+.icon-diamond_lance2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0017;');
+}
+.icon-disorienting_blow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0018;');
+}
+.icon-dodge_acrobats {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0019;');
+}
+.icon-dodge_gamblers {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf001a;');
+}
+.icon-dodge_marksmans {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf001b;');
+}
+.icon-electrostatic_mind {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf001c;');
+}
+.icon-feed_the_void {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf001d;');
+}
+.icon-flow_state {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf001e;');
+}
+.icon-frostpulse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf001f;');
+}
+.icon-glacial_harvest {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0020;');
+}
+.icon-glide_balanced {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0021;');
+}
+.icon-glide_burst {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0022;');
+}
+.icon-glide_strafe {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0023;');
+}
+.icon-grenade_arcbolt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0024;');
+}
+.icon-grenade_axion_bolt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0025;');
+}
+.icon-grenade_firebolt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0026;');
+}
+.icon-grenade_flashbang {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0027;');
+}
+.icon-grenade_flux {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0028;');
+}
+.icon-grenade_fusion {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0029;');
+}
+.icon-grenade_healing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf002a;');
+}
+.icon-grenade_incendiary {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf002b;');
+}
+.icon-grenade_lightning {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf002c;');
+}
+.icon-grenade_magnetic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf002d;');
+}
+.icon-grenade_pulse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf002e;');
+}
+.icon-grenade_scatter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf002f;');
+}
+.icon-grenade_skip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0030;');
+}
+.icon-grenade_solar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0031;');
+}
+.icon-grenade_storm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0032;');
+}
+.icon-grenade_suppressor {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0033;');
+}
+.icon-grenade_swarm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0034;');
+}
+.icon-grenade_thermite {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0035;');
+}
+.icon-grenade_tripmine {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0036;');
+}
+.icon-grenade_void_spike {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0037;');
+}
+.icon-grenade_void_wall {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0038;');
+}
+.icon-grenade_vortex {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0039;');
+}
+.icon-grim_harvest {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf003a;');
+}
+.icon-gunpowder_gamble {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf003b;');
+}
+.icon-hammer_strike {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf003c;');
+}
+.icon-heat_rises {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf003d;');
+}
+.icon-howl_of_the_storm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf003e;');
+}
+.icon-icarus_dash {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf003f;');
+}
+.icon-iceflare_bolts {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0040;');
+}
+.icon-ignition {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0041;');
+}
+.icon-invisibility {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0042;');
+}
+.icon-ionic_trace {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0043;');
+}
+.icon-juggernaut {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0044;');
+}
+.icon-jump_high {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0045;');
+}
+.icon-jump_strafe {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0046;');
+}
+.icon-jump_triple {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0047;');
+}
+.icon-knife_lightweight {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0048;');
+}
+.icon-knife_proximity_explosive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0049;');
+}
+.icon-knife_trick {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf004a;');
+}
+.icon-knife_weighted_throwing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf004b;');
+}
+.icon-knock_em_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf004c;');
+}
+.icon-knockout {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf004d;');
+}
+.icon-lethal_current {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf004e;');
+}
+.icon-lift_catapult {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf004f;');
+}
+.icon-lift_high {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0050;');
+}
+.icon-lift_strafe {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0051;');
+}
+.icon-offensive_bulwark {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0052;');
+}
+.icon-on_your_mark {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0053;');
+}
+.icon-overshield {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0054;');
+}
+.icon-phoenix_dive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0055;');
+}
+.icon-radiant {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0056;');
+}
+.icon-restoration {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0057;');
+}
+.icon-rift_empowering {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0058;');
+}
+.icon-rift_healing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0059;');
+}
+.icon-roaring_flames {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf005a;');
+}
+.icon-scorch {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf005b;');
+}
+.icon-seismic_strike {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf005c;');
+}
+.icon-shatter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf005d;');
+}
+.icon-shatterdive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf005e;');
+}
+.icon-shield_bash {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf005f;');
+}
+.icon-slow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0060;');
+}
+.icon-snare_bomb {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0061;');
+}
+.icon-sol_invictus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0062;');
+}
+.icon-stasis_crystal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0063;');
+}
+.icon-stasis_shard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0064;');
+}
+.icon-stasis_titan_spear_slam {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0065;');
+}
+.icon-stylish_executioner {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0066;');
+}
+.icon-suppression {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0067;');
+}
+.icon-tectonic_harvest {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0068;');
+}
+.icon-tempest_strike {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0069;');
+}
+.icon-thruster {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006a;');
+}
+.icon-touch_of_flame {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006b;');
+}
+.icon-touch_of_thunder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006c;');
+}
+.icon-touch_of_winter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006d;');
+}
+.icon-trappers_ambush {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006e;');
+}
+.icon-vanishing_step {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006f;');
+}
+.icon-weaken {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0070;');
+}
+.icon-winters_shroud {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0071;');
+}
+.icon-adventure2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0072;');
+}
+.icon-altars_of_sorrow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0073;');
+}
+.icon-black_armory_forge {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0074;');
+}
+.icon-curse_cycle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0075;');
+}
+.icon-duality {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0076;');
+}
+.icon-dungeon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0077;');
+}
+.icon-edz {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0078;');
+}
+.icon-escalation_protocol {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0079;');
+}
+.icon-faction_crucible {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf007a;');
+}
+.icon-faction_ironbanner {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf007b;');
+}
+.icon-faction_xur4 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf007c;');
+}
+.icon-festival_of_the_lost {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf007d;');
+}
+.icon-gambit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf007e;');
+}
+.icon-garden_of_salvation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf007f;');
+}
+.icon-guardian_games {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0080;');
+}
+.icon-raid {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0081;');
+}
+.icon-spire_of_the_watcher {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0082;');
+}
+.icon-strike {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0083;');
+}
+.icon-the_dawning {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0084;');
+}
+.icon-trials_of_osiris {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0085;');
+}
+.icon-wartable {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0086;');
+}
+.icon-battlegrounds {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0087;');
+}
+.icon-bray_simulation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0088;');
+}
+.icon-dreaming_city {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0089;');
+}
+.icon-luna {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf008a;');
+}
+.icon-nessus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf008b;');
+}
+.icon-raid_deep_stone_crypt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf008c;');
+}
+.icon-raid_last_wish {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf008d;');
+}
+.icon-raid_leviathan {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf008e;');
+}
+.icon-raid_vault_of_glass {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf008f;');
+}
+.icon-raid_vow_of_the_disciple {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0090;');
+}
+.icon-solstice {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0091;');
+}
+.icon-wellspring {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0092;');
+}
+.icon-ace_of_spades {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0093;');
+}
+.icon-arrivals {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0094;');
+}
+.icon-beyond_light {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0095;');
+}
+.icon-black_armory {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0096;');
+}
+.icon-bray_simulation1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0097;');
+}
+.icon-cabal_red_legion {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0098;');
+}
+.icon-cabal_unknown1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0099;');
+}
+.icon-chalice_of_opulence {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf009a;');
+}
+.icon-clovis_bray {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf009b;');
+}
+.icon-clovis_bray_device {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf009c;');
+}
+.icon-crow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf009d;');
+}
+.icon-dawn {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf009e;');
+}
+.icon-destiny {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf009f;');
+}
+.icon-dim {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a0;');
+}
+.icon-eververse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a1;');
+}
+.icon-faction_cryptarch {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a2;');
+}
+.icon-faction_dead_orbit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a3;');
+}
+.icon-faction_fwc3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a4;');
+}
+.icon-faction_new_monarchy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a5;');
+}
+.icon-faction_queens_wrath {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a6;');
+}
+.icon-faction_rally {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a7;');
+}
+.icon-faction_thenine {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a8;');
+}
+.icon-faction_vanguard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00a9;');
+}
+.icon-fallen_devils {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00aa;');
+}
+.icon-fallen_dusk {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ab;');
+}
+.icon-fallen_judgement {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ac;');
+}
+.icon-fallen_kings {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ad;');
+}
+.icon-fallen_light {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ae;');
+}
+.icon-fallen_spider {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00af;');
+}
+.icon-fallen_unknown1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b0;');
+}
+.icon-fallen_winter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b1;');
+}
+.icon-fallen_wolves {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b2;');
+}
+.icon-forsaken {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b3;');
+}
+.icon-gunsmith {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b4;');
+}
+.icon-hive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b5;');
+}
+.icon-hive_crota {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b6;');
+}
+.icon-ishtar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b7;');
+}
+.icon-lightfall {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b8;');
+}
+.icon-loom {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00b9;');
+}
+.icon-plundered {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ba;');
+}
+.icon-risen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00bb;');
+}
+.icon-seasonal_arena {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00bc;');
+}
+.icon-seraph {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00bd;');
+}
+.icon-seventh_column {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00be;');
+}
+.icon-severed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00bf;');
+}
+.icon-shadowkeep {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c0;');
+}
+.icon-srl {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c1;');
+}
+.icon-taken {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c2;');
+}
+.icon-the_chosen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c3;');
+}
+.icon-the_hunt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c4;');
+}
+.icon-the_worthy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c5;');
+}
+.icon-traveler2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c6;');
+}
+.icon-vex {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c7;');
+}
+.icon-warmind {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c8;');
+}
+.icon-witch_queen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c9;');
+}
+.icon-fynch {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ca;');
+}
+.icon-gaul {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00cb;');
+}
+.icon-starhorse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00cc;');
+}
+.icon-suraya {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00cd;');
+}
+.icon-ahamkara_bones {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ce;');
+}
+.icon-cat_statue {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00cf;');
+}
+.icon-eliksni_skull {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d0;');
+}
+.icon-executioner {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d1;');
+}
+.icon-exo_frame {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d2;');
+}
+.icon-gambit_mote {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d3;');
+}
+.icon-jade_rabbit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d4;');
+}
+.icon-lectern {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d5;');
+}
+.icon-legendary {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d6;');
+}
+.icon-loot_chest {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d7;');
+}
+.icon-match_game {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d8;');
+}
+.icon-region_chest {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00d9;');
+}
+.icon-relic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00da;');
+}
+.icon-seasonal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00db;');
+}
+.icon-skull {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00dc;');
+}
+.icon-sleeper_node {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00dd;');
+}
+.icon-standing_victory_gambit2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00de;');
+}
+.icon-team_alpha {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00df;');
+}
+.icon-team_alpha2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e0;');
+}
+.icon-team_bravo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e1;');
+}
+.icon-vault {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e2;');
+}
+.icon-vendor {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e3;');
+}
+.icon-ravenous_beast {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e4;');
+}
+.icon-respawn_restricted {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e5;');
+}
+.icon-team_bravo2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e6;');
+}
+.icon-twin_tailed_fox {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e7;');
+}
+.icon-vorpal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e8;');
+}
+.icon-worm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00e9;');
+}
+.icon-leviathan_axes {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ea;');
+}
+.icon-leviathan_cup {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00eb;');
+}
+.icon-leviathan_dogs {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ec;');
+}
+.icon-leviathan_sun {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ed;');
+}
+.icon-operator {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ee;');
+}
+.icon-scanner {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ef;');
+}
+.icon-suppressor {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f0;');
+}
+.icon-bird_branch {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f1;');
+}
+.icon-bird_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f2;');
+}
+.icon-bird_fly {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f3;');
+}
+.icon-bird_stand {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f4;');
+}
+.icon-fire_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f5;');
+}
+.icon-fire_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f6;');
+}
+.icon-fish_curl {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f7;');
+}
+.icon-fish_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f8;');
+}
+.icon-fish_up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00f9;');
+}
+.icon-infinity {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00fa;');
+}
+.icon-snake_eight {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00fb;');
+}
+.icon-snake_split {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00fc;');
+}
+.icon-snake_u {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00fd;');
+}
+.icon-spear_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00fe;');
+}
+.icon-spear_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ff;');
+}
+.icon-two_fish {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0100;');
+}
+.icon-abilities {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0101;');
+}
+.icon-ammo_heavy2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0102;');
+}
+.icon-ammo_primary2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0103;');
+}
+.icon-ammo_special2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0104;');
+}
+.icon-armor_boots {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0105;');
+}
+.icon-armor_chest {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0106;');
+}
+.icon-armor_class {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0107;');
+}
+.icon-armor_gloves {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0108;');
+}
+.icon-armor_helmet {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0109;');
+}
+.icon-aspect {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf010a;');
+}
+.icon-clan {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf010b;');
+}
+.icon-class_abilities {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf010c;');
+}
+.icon-class_hunter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf010d;');
+}
+.icon-class_titan {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf010e;');
+}
+.icon-class_warlock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf010f;');
+}
+.icon-consumable {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0110;');
+}
+.icon-damage_kinetic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0111;');
+}
+.icon-discipline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0112;');
+}
+.icon-emblem {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0113;');
+}
+.icon-energy_weapon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0114;');
+}
+.icon-engram {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0115;');
+}
+.icon-finisher {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0116;');
+}
+.icon-ghost {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0117;');
+}
+.icon-glimmer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0118;');
+}
+.icon-gunsmith_materials {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0119;');
+}
+.icon-infuse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf011a;');
+}
+.icon-intellect {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf011b;');
+}
+.icon-light2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf011c;');
+}
+.icon-mobility {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf011d;');
+}
+.icon-modification {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf011e;');
+}
+.icon-ornament {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf011f;');
+}
+.icon-past {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0120;');
+}
+.icon-postmaster {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0121;');
+}
+.icon-power2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0122;');
+}
+.icon-power_weapon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0123;');
+}
+.icon-recovery {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0124;');
+}
+.icon-resilience {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0125;');
+}
+.icon-resonance {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0126;');
+}
+.icon-roster {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0127;');
+}
+.icon-shader {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0128;');
+}
+.icon-shaders2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0129;');
+}
+.icon-ship {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf012a;');
+}
+.icon-sparrow2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf012b;');
+}
+.icon-strength {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf012c;');
+}
+.icon-vault_armour {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf012d;');
+}
+.icon-vault_weapons {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf012e;');
+}
+.icon-accuracy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf012f;');
+}
+.icon-blast_radius {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0130;');
+}
+.icon-charge_time {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0131;');
+}
+.icon-draw_time {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0132;');
+}
+.icon-emote {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0133;');
+}
+.icon-handling {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0134;');
+}
+.icon-impact {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0135;');
+}
+.icon-loot {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0136;');
+}
+.icon-lore {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0137;');
+}
+.icon-masterwork {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0138;');
+}
+.icon-range {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0139;');
+}
+.icon-reload_speed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf013a;');
+}
+.icon-shield_duration {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf013b;');
+}
+.icon-stability {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf013c;');
+}
+.icon-transmat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf013d;');
+}
+.icon-velocity {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf013e;');
+}
+.icon-hive_relic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf013f;');
+}
+.icon-trace_rifle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0140;');
+}
+.icon-glaive_melee {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0141;');
+}
+.icon-sword_melee {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0142;');
+}
+.icon-the_rock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0143;');
+}
+.icon-club {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0144;');
+}
+.icon-diamond {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0145;');
+}
+.icon-heart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0146;');
+}
+.icon-spade {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0147;');
+}
+.icon-into_the_fray {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0148;');
+}
+.icon-mindspun_invocation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0149;');
+}
+.icon-suspend {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf014a;');
+}
+.icon-unravel {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf014b;');
+}
+.icon-weavers_call {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf014c;');
+}
+.icon-widows_silk {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf014d;');
+}
+.icon-firesprite {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf014e;');
+}
+.icon-void_breach {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf014f;');
+}
+.icon-harmonic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0150;');
+}
+.icon-fragments {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0151;');
+}
+
