@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'DIM-Symbols';
-  src:  url('fonts/DIM-Symbols.eot?3fbm31');
-  src:  url('fonts/DIM-Symbols.eot?3fbm31#iefix') format('embedded-opentype'),
-    url('fonts/DIM-Symbols.ttf?3fbm31') format('truetype'),
-    url('fonts/DIM-Symbols.woff?3fbm31') format('woff'),
-    url('fonts/DIM-Symbols.svg?3fbm31#DIM-Symbols') format('svg');
+  src:  url('fonts/DIM-Symbols.eot?n7zus');
+  src:  url('fonts/DIM-Symbols.eot?n7zus#iefix') format('embedded-opentype'),
+    url('fonts/DIM-Symbols.ttf?n7zus') format('truetype'),
+    url('fonts/DIM-Symbols.woff?n7zus') format('woff'),
+    url('fonts/DIM-Symbols.svg?n7zus#DIM-Symbols') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -631,10 +631,10 @@
 .icon-witch_queen:before {
   content: "\f00c9";
 }
-.icon-fynch:before {
+.icon-gaul:before {
   content: "\f00ca";
 }
-.icon-gaul:before {
+.icon-fynch:before {
   content: "\f00cb";
 }
 .icon-starhorse:before {
@@ -997,16 +997,16 @@
 .icon-the_rock:before {
   content: "\f0143";
 }
-.icon-club:before {
+.icon-spade:before {
   content: "\f0144";
 }
-.icon-diamond:before {
+.icon-heart:before {
   content: "\f0145";
 }
-.icon-heart:before {
+.icon-diamond:before {
   content: "\f0146";
 }
-.icon-spade:before {
+.icon-club:before {
   content: "\f0147";
 }
 .icon-into_the_fray:before {

@@ -604,10 +604,10 @@
 .icon-witch_queen {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c9;');
 }
-.icon-fynch {
+.icon-gaul {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ca;');
 }
-.icon-gaul {
+.icon-fynch {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00cb;');
 }
 .icon-starhorse {
@@ -970,16 +970,16 @@
 .icon-the_rock {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0143;');
 }
-.icon-club {
+.icon-spade {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0144;');
 }
-.icon-diamond {
+.icon-heart {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0145;');
 }
-.icon-heart {
+.icon-diamond {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0146;');
 }
-.icon-spade {
+.icon-club {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0147;');
 }
 .icon-into_the_fray {
