@@ -605,10 +605,10 @@
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00c9;');
 }
 .icon-gaul {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ca;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00cb;');
 }
 .icon-fynch {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00cb;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00ca;');
 }
 .icon-starhorse {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf00cc;');
