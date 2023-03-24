@@ -970,16 +970,16 @@
 .icon-the_rock {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0143;');
 }
-.icon-spade {
+.icon-club {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0144;');
 }
-.icon-heart {
+.icon-diamond {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0145;');
 }
-.icon-diamond {
+.icon-heart {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0146;');
 }
-.icon-club {
+.icon-spade {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0147;');
 }
 .icon-into_the_fray {
